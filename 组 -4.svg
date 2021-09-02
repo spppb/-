@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1043" height="1158" viewBox="0 0 1043 1158">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 120px;
+        font-family: FZYXJW--GB1-0, FZYouXian-Z09S;
+      }
+
+      .cls-2 {
+        fill: #8d2d2d;
+        font-size: 150px;
+        font-family: FZCCHJW--GB1-0, FZChaoCuHei-M10S;
+      }
+    </style>
+  </defs>
+  <g id="组_3" data-name="组 3" transform="translate(-61.519 -249.726)">
+    <text id="Hi" class="cls-1" transform="translate(61.519 249.726)"><tspan x="0" y="106">Hi</tspan></text>
+    <text id="还在犹豫_" data-name="还在犹豫？" class="cls-2" transform="translate(198.519 1229.726)"><tspan x="0" y="144">还在犹豫？</tspan></text>
+  </g>
+</svg>

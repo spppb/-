@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1134" height="1364" viewBox="0 0 1134 1364">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        font-size: 120px;
+      }
+
+      .cls-1 {
+        font-family: FZYXJW--GB1-0, FZYouXian-Z09S;
+      }
+
+      .cls-2 {
+        fill: #8d2d2d;
+      }
+
+      .cls-2, .cls-4, .cls-6 {
+        font-family: FZCCHJW--GB1-0, FZChaoCuHei-M10S;
+      }
+
+      .cls-3 {
+        font-size: 60px;
+      }
+
+      .cls-3, .cls-5 {
+        font-family: FZYTK--GBK1-0, FZYaoTi;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #0527af;
+      }
+
+      .cls-5 {
+        font-size: 50px;
+      }
+
+      .cls-6 {
+        font-size: 200px;
+      }
+    </style>
+  </defs>
+  <g id="组_3" data-name="组 3" transform="translate(-52.519 -249.726)">
+    <text id="Hi" class="cls-1" transform="translate(61.519 249.726)"><tspan x="0" y="106">Hi</tspan></text>
+    <text id="还在犹豫_" data-name="还在犹豫？" class="cls-2" transform="translate(61.519 389.726)"><tspan x="0" y="115">还在犹豫？</tspan></text>
+    <text id="如果" class="cls-3" transform="translate(61.519 549.726)"><tspan x="0" y="59">如果</tspan></text>
+    <text id="你可以" class="cls-4" transform="translate(60.519 636.726)"><tspan x="0" y="115">你可以</tspan></text>
+    <text id="获得在校级组织任职的经历" class="cls-5" transform="translate(60.519 805.726)"><tspan x="0" y="49">获得在校级组织任职的经历</tspan></text>
+    <text id="在高等级创新赛事中最近距离观摩大佬的作品" class="cls-5" transform="translate(60.519 879.726)"><tspan x="0" y="49">在高等级创新赛事中最近距离观摩大佬的作品</tspan></text>
+    <text id="在百科大赛中成为隐藏BOSS" class="cls-5" transform="translate(60.519 953.726)"><tspan x="0" y="49">在百科大赛中成为隐藏BOSS</tspan></text>
+    <text id="亲自动手让设备满血复活" class="cls-5" transform="translate(60.519 1027.726)"><tspan x="0" y="49">亲自动手让设备满血复活</tspan></text>
+    <text id="外联_管理_与人交际" data-name="外联、管理、与人交际" class="cls-5" transform="translate(60.519 1101.726)"><tspan x="0" y="49">外联、管理、与人交际</tspan></text>
+    <text id="或者" class="cls-5" transform="translate(61.519 1175.726)"><tspan x="0" y="49">或者</tspan></text>
+    <text id="把自己的创意变成现实" class="cls-5" transform="translate(52.519 1249.726)"><tspan x="0" y="49">把自己的创意变成现实</tspan></text>
+    <text id="现在" class="cls-6" transform="translate(310.519 1376.726)"><tspan x="0" y="192">现在</tspan></text>
+  </g>
+</svg>

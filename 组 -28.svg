@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1078" height="1082" viewBox="0 0 1078 1082">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        font-size: 120px;
+      }
+
+      .cls-1 {
+        font-family: FZYXJW--GB1-0, FZYouXian-Z09S;
+      }
+
+      .cls-2 {
+        fill: #8d2d2d;
+      }
+
+      .cls-2, .cls-4 {
+        font-family: FZCCHJW--GB1-0, FZChaoCuHei-M10S;
+      }
+
+      .cls-3 {
+        font-size: 60px;
+      }
+
+      .cls-3, .cls-5 {
+        font-family: FZYTK--GBK1-0, FZYaoTi;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #0527af;
+      }
+
+      .cls-5 {
+        font-size: 85px;
+      }
+    </style>
+  </defs>
+  <g id="组_3" data-name="组 3" transform="translate(-35.519 -249.726)">
+    <text id="Hi" class="cls-1" transform="translate(61.519 249.726)"><tspan x="0" y="106">Hi</tspan></text>
+    <text id="还在犹豫_" data-name="还在犹豫？" class="cls-2" transform="translate(61.519 389.726)"><tspan x="0" y="115">还在犹豫？</tspan></text>
+    <text id="如果" class="cls-3" transform="translate(61.519 549.726)"><tspan x="0" y="59">如果</tspan></text>
+    <text id="你可以" class="cls-4" transform="translate(60.519 636.726)"><tspan x="0" y="115">你可以</tspan></text>
+    <text id="获得在校级组织任职的经历" class="cls-5" transform="translate(35.519 1235.726)"><tspan x="0" y="84">获得在校级组织任职的经历</tspan></text>
+  </g>
+</svg>
